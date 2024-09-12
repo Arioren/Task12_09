@@ -1,0 +1,8 @@
+Target City,Priority,Assigned Pilot,Assigned Aircraft,Distance,Weather,Pilot Skill,Aircraft Speed,Assigned Fuel Capacity,Fit Score
+Sanaa,2,Robert White,Heavy Bomber,2089.0994981821095,"{'condintion': 'Clouds', 'clouds': 100, 'wind': 1.49}",10,850,6000,2005.459899636422
+Tripoli,2,Michael Clark,Boomer,2024.645048661593,"{'condintion': 'Rain', 'clouds': 43, 'wind': 6.62}",9,900,5000,1747.2790097323186
+Khartoum,3,Iom Cruise,Stealth Fighter,1849.0623584015018,"{'condintion': 'Clouds', 'clouds': 21, 'wind': 3.15}",9,1800,3500,1427.2024716803005
+Doha,4,John Doe,Fighter Jet,1796.6635713414018,"{'condintion': 'Clear', 'clouds': 0, 'wind': 3.36}",8,1500,3000,1261.5327142682804
+Manama,2,Alice Johnson,Recon Drone,1664.4828779149764,"{'condintion': 'Clear', 'clouds': 0, 'wind': 3.77}",7,600,1200,694.8465755829953
+Tehran,4,Sara Connor,Drone,1583.358329422058,"{'condintion': 'Clear', 'clouds': 3, 'wind': 0.68}",7,500,1000,618.6216658844116
+Riyadh,3,Jane Smith,Helicopter,1429.075037057506,"{'condintion': 'Clear', 'clouds': 8, 'wind': 1.68}",6,400,800,527.5150074115012

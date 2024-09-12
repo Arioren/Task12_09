@@ -1,0 +1,9 @@
+[
+  {"type": "Fighter Jet", "speed": 1500, "fule_capacity": 3000},
+  {"type": "Boomer", "speed": 900, "fule_capacity": 5000},
+  {"type": "Drone", "speed": 500, "fule_capacity": 1000},
+  {"type": "Helicopter", "speed": 400, "fule_capacity": 800},
+  {"type": "Stealth Fighter", "speed": 1800, "fule_capacity": 3500},
+  {"type": "Recon Drone", "speed": 600, "fule_capacity": 1200},
+  {"type": "Heavy Bomber", "speed": 850, "fule_capacity": 6000}
+]
